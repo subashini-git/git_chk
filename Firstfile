@@ -1,3 +1,6 @@
 FirstFile - 1 commit
 FirstFile - 2 commit
+<<<<<<< HEAD
 FirstFile - 3 commit
+=======
+>>>>>>> a1a4bd0ce96b6bdbdfdc3ef21dae1e643bd9b5d2
